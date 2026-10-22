@@ -1,0 +1,8 @@
+streamlit
+pandas
+networkx
+python-louvain
+scikit-learn
+pyvis
+pdfplumber
+openpyxl
